@@ -1,4 +1,8 @@
-
+/* 
+    Put this file into firefox's [roaming profile folder]/chrome.
+    Create 'chrome' folder if needed.
+    On windows it's: %userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\[your profile folder]\chrome.
+*/
 
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
